@@ -1,0 +1,7 @@
+
+[flake8]  #All files start with this
+exclude = 
+    migrations,
+    __pycache__,
+    manage.py,
+    settings.py
